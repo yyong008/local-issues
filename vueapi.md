@@ -175,7 +175,7 @@ VNode 接口
     <span v-if="slotProps.todo.isComplete">
       ✅
     </span>
-    {{ slotProps.todo.text }}
+    {{ slotProps.todo.text R}}
   </template>
 </todo-list>
 ```
